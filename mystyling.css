@@ -7,3 +7,17 @@
   font-size: 30px;
   text-align: center;
 }
+
+.fa {
+  margin-left: 30px;
+}
+
+.note {
+  display: inline-block;
+  font-size: 20px;
+  vertical-align: middle;
+}
+
+.info {
+  width: 400px;
+}
