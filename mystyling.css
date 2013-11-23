@@ -16,8 +16,15 @@
   display: inline-block;
   font-size: 20px;
   vertical-align: middle;
+  margin-bottom: 12px;
 }
 
 .info {
   width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.links {
+  text-align: center;
 }
