@@ -62,3 +62,8 @@
 #pic-container {
   margin-top: 60px;
 }
+
+.cite {
+  color: grey;
+  font-size: 12px;
+}
